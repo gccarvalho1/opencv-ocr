@@ -89,7 +89,7 @@ Para se aprofundar nos conceitos de curvas de avaliação de modelos:
 * Para saber mais: Precision Recall x ROC
 
 ===================
-Aula5-Visao.png
+Aula5-visao.png
 Publicado em Data Science / Machine Learning por Mirla Costa
 ' Dados, machine learning tempo de vídeo: 10min
 
