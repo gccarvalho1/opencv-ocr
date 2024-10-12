@@ -79,7 +79,7 @@ for imagem in caminho:
 
 
                 termo_busca = 'learning'
-                if termo_busca.upper() in texto.upper():
+                if termo_busca.lower() in texto.lower():
                     x, y, img = caixa_texto(resultado, img_copia)
                     img_copia = escreve_texto(texto, x, y, img_copia, fonte)
                     num_ocorrencias+= 1
