@@ -76,7 +76,7 @@ Para executar o script e processar imagens:
 1. Defina as variáveis de ambiente no arquivo `.env` (para o caminho da pasta de imagens e o caminho da fonte).
 2. Execute o script:
     ```bash
-    python ocr_image_processing.py
+    py leitorOCR.py
     ```
 
 O script irá:
