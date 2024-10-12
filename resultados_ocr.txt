@@ -1,0 +1,104 @@
+===================
+Aula5-Ambientes_Virtuais.png
+Publicado em Data Science / Data Science por Millena Gená Pereira
+' data science, Python tempo de vídeo: 10min
+
+Ambientes virtuais são utilizados para separar projetos Python com suas dependências e
+bibliotecas em um único lugar. O ambiente virtual é específico para o projeto e não interfere
+nas dependências e especificações de outros projetos. Isso significa que podemos ter
+diferentes ambientes virtuais na nossa máquina e cada um deles será criado especificamente
+
+para um projeto.
+
+Para criar e conseguir trabalhar com um ambiente virtual, é preciso conhecer alguns
+
+comandos. São eles:
+
+e Criarum ambiente: conda create --name nome do ambiente python=:
+e Listar os ambientes existentes na máquina: conda env list
+
+* Ativaro ambiente: conda activate nome do ambiente
+
+e Verificar as bibliotecas instaladas no ambiente: conda list
+
+* Instalar uma nova biblioteca no ambiente: conda install nome da biblioteca
+* Desativar o ambiente: conda deactivate
+
+* Deletar um ambiente: conda env remove --name nome do ambiente
+===================
+Aula5-GitHub.png
+Publicado em Data Science / Data Science por Igor Nascimento Alves
+' data science, Github tempo de vídeo: 16min
+
+Nesse vídeo você pode aprender a:
+
+Alterar e manipular o README;
+
+Criar um repositório;
+
+Alterar um repositório diretamente pelo GitHub;
+
+Abrir os notebooks do repositório pelo Colab;
+
+Realizar o commit do notebook pelo Colab.
+
+Veja como utilizar o Google Colab:
+
+* Google Colab: o que é e como usar?
+
+===================
+Aula5-Microstrategy.png
+Publicado em Data Science / Business Intelligence por Afonso Augusto Santana Sales Rios
+O Dados tempo de vídeo: 13min
+
+Neste Alura+, aprenda a importar visualizações externas no MicroStrategy Workstation. Vamos
+utilizar a biblioteca VitaraCharts na versão desktop do MicroStrategy, elaborando uma página
+em um dashboard do Campeonato Brasileiro.
+
+Sugestão de materiai:
+
+Guia de uso do VitaraCharts (em inglês)
+
+Visualizações online do VitaraCharts
+
+Projet:
+
+Projeto final
+===================
+Aula5-ROC.png
+Publicado em Data Science / Machine Learning porJoão Vitor de Miranda
+O data science tempo de vídeo: 09min
+
+Nesse vídeo, João Miranda fala sobre um gráfico utilizado para avaliar modelos de classificação
+binária, a curva ROC. O foco é mostrar como a curva é construída e como realizar a
+interpretação do gráfico, o que facílita no entendimento do desempenho dos modelos de
+
+classificação.
+
+Conteúdos complementares:
+
+Alura +:
+Para compreender os conceitos das métricas extraídas da matriz de confusão:
+
+« Alura+ 1440 - Métricas de avaliação para classificação
+
+Para saber mais:
+
+Para se aprofundar nos conceitos de curvas de avaliação de modelos:
+
+* Para saber mais: Precision Recall x ROC
+
+===================
+Aula5-Visao.png
+Publicado em Data Science / Machine Learning por Mirla Costa
+' Dados, machine learning tempo de vídeo: 10min
+
+O Teachable Machine é uma ferramenta bastante intuítiva, criada pelo Google, que permite a
+criação de uma rede neural para classificação sem a necessidade de saber programar. Ao
+mesmo tempo, ela também tem outras funções que permitem inserir o resultado do
+
+treinamento em qualquer programa independente que você criar.
+
+Para esse Alura+, também utilizaremos o Google Colab como ambiente para a testagem do
+
+modelo em código.
