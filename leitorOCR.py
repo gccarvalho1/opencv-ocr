@@ -90,7 +90,7 @@ for imagem in caminho:
 
         novo_nome_imagem = 'OCR_' + nome_imagem
         nova_imagem = 'Img/' + str(novo_nome_imagem)
-        cv2.imwrite(nova_imagem, img)
+        cv2.imwrite(nova_imagem, img_copia)
 
         cv2.waitKey(0)
 cv2.destroyAllWindows()
